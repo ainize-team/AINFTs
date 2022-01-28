@@ -9,7 +9,7 @@ Define Task Description for AINFT.
 
 ### Example
 
-The following is a conversation with an AI assistant. 
+     The following is a conversation with an AI assistant. 
 
 
 ## 2. Chatbot Information
@@ -17,7 +17,7 @@ Write the information that will be reflected in the chatbot.
 
 ### Example
 
-The assistant is helpful, creative, clever, and very friendly.
+     The assistant is helpful, creative, clever, and very friendly.
 
 
 ## 3. Chat Example
