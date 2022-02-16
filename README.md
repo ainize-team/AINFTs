@@ -49,7 +49,7 @@ If you want to know more about prompt engineering, please visit out [medium blog
 If you want to see an example made by someone else, visit the current repository or [teachable-ainize/ainft repository](https://github.com/teachable-ainize/ainft).
 
 ### 2. Upload your data
-Go to [teachable-inft](https://ainize.ai/teachable-nft) and select your NFT.
+Go to [teachable-ainft](https://ainize.ai/teachable-nft) and select your NFT.
 
 ![01](./images/01.gif)
 
