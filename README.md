@@ -2,7 +2,7 @@
 AINFT prompt collections made by Common Computer.
 
 ## What is AINFT?
-AINFT is an immutable identifier that represents the connectivity of AI components. It is an accountable, reproducible, and valuable unit of AI managed by communities on the Internet for AI. If you want to know more about it, please visit out [medium blog](https://medium.com/ai-network/ainft-make-ai-accountable-reproducible-and-valuable-1e216ed123b0).
+AINFT is an immutable identifier that represents the connectivity of AI components. It is an accountable, reproducible, and valuable unit of AI managed by communities on the Internet for AI. If you want to know more about it, please visit our [medium blog](https://medium.com/ai-network/ainft-make-ai-accountable-reproducible-and-valuable-1e216ed123b0).
 
 ## How to make AINFT using Teachable-AINFT
 Teachable-AINFT is a service that create your own AINFT and easily mint the created AINFT to opensea.
@@ -44,7 +44,7 @@ Human: ...
 AI: ...
 ```
 
-If you want to know more about prompt engineering, please visit out [medium blog](https://medium.com/ai-network/everyones-ai-open-source-version-of-gpt-3-gpt-j-e7d0c71b4532). 
+If you want to know more about prompt engineering, please visit our [medium blog](https://medium.com/ai-network/everyones-ai-open-source-version-of-gpt-3-gpt-j-e7d0c71b4532). 
 
 If you want to see an example made by someone else, visit the current repository or [teachable-ainize/ainft repository](https://github.com/teachable-ainize/ainft).
 
