@@ -50,22 +50,28 @@ If you want to see an example made by someone else, visit the current repository
 
 ### 2. Upload your data
 Go to [teachable-inft](https://ainize.ai/teachable-nft) and select your NFT.
+
 ![01](./images/01.gif)
 
 Upload your promt text.
+
 ![02](./images/02.gif)
 
 Set your AINFT name
+
 ![03](./images/03.gif)
 
 ### 3. Train you AINFT
 Click "Train Model" and please wait just a moment. This work takes a few minutes.
+
 ![04](./images/04.gif)
 
 ### 4. Go to Miniverse
 Go to the miniverse and meet the AINFT you made.
+
 ![05](./images/05.gif)
 
 ### 5. Chat with your AINFT
 Chat with your AINFT on miniverse
+
 ![06](./images/06.gif)
